@@ -1,0 +1,31 @@
+{
+    "manufacter": {
+        "name": "RZ3",
+        "country": "Alemania"
+    },
+    "engine": {
+        "gears": "1",
+        "transmission": "Manual",
+        "type": "B"
+    },
+    "description": "La RZ3 R emplea la misma base motriz de su homonima de 292cc DOHC, 29 HP, 24,5 Nm, 4 Válvulas, Refrigeración Líquida, 6 velocidades y ahora con un nuevo chasis diseñado específicamente para ella. Con una agresiva personalidad y un motor que permite elevar su performance, presenta una aceleración de 0 a 60 km/h en 3,3 seg., Velocidad Máxima 150 km/h.",
+    "id": "RZ3-R-2019",
+    "images": [
+        "img/motos/RZ3RBLANCAASIENTO_1.jpg",
+        "img/motos/RZ3RBLANCAASIENTO_2.jpg",
+        "img/motos/RZ3RBLANCAASIENTO_3.jpg",
+        "img/motos/RZ3RBLANCAASIENTO_4.jpg"
+    ],
+    "name": "RZ3 R-2019",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1399.5 mm (w)",
+            "1595.8 mm (h)",
+            "4218.9 mm (l)"
+        ],
+        "weight": "159.0 Kg"
+    },
+    "space": {
+        "volume": "10.5L"
+    }
+}

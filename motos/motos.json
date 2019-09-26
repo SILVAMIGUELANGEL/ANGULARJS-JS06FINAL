@@ -1,0 +1,16 @@
+[
+  {
+    "model": 2019,
+    "id": "YAMAHA-MT-03",
+    "imageUrl": "img/motos/yamaha-mt-03-2019-3.jpg",
+    "name": "Yamaha MT-03",
+    "snippet": "La Yamaha MT-03 pertenece a la rama de motocicletas master of Torque de Yamaha."
+  },
+  {
+    "model": 2019,
+    "id": "RZ3-R-2019",
+    "imageUrl": "img/motos/RZ3RBLANCAASIENTO_1.jpg",
+    "name": "RZ3 R-2019",
+    "snippet": "La RZ3 R emplea la misma base motriz de su homonima de 292cc DOHC."
+  }
+]
